@@ -1,1 +1,2 @@
 # Best Checkpoint (after training)
+outputs/models/distilbert_best.pt is not included in this repository due to file size (~250MB). Run python src/part_b_distilbert.py to generate it locally.

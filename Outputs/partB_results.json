@@ -1,1 +1,25 @@
-
+{
+  "Model": "DistilBERT",
+  "Accuracy": 0.9866,
+  "Precision": 0.9811,
+  "Recall": 0.9396,
+  "F1-Score": 0.9599,
+  "train_time": 312.4,
+  "config": {
+    "model_name": "distilbert-base-uncased",
+    "epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 0.00002,
+    "max_seq_length": 128,
+    "frozen_layers": 4,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1
+  },
+  "training_history": {
+    "train_loss": [0.1823, 0.0612, 0.0341],
+    "train_acc":  [0.9541, 0.9823, 0.9912],
+    "val_loss":   [0.0724, 0.0521, 0.0489],
+    "val_acc":    [0.9758, 0.9839, 0.9866]
+  }
+}

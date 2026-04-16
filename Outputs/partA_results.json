@@ -1,1 +1,21 @@
 
+{
+  "models": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.9677,
+      "Precision": 1.0,
+      "Recall": 0.7584,
+      "F1-Score": 0.8626,
+      "train_time": 0.0187
+    },
+    {
+      "Model": "Naive Bayes",
+      "Accuracy": 0.9812,
+      "Precision": 0.9923,
+      "Recall": 0.8658,
+      "F1-Score": 0.9247,
+      "train_time": 0.0021
+    }
+  ]
+}

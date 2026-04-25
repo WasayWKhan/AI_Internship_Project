@@ -1,6 +1,6 @@
 # Technical Report: Comparative Study of Traditional Machine Learning and Transformer Models for Spam Classification
 
-**Author:** [Your Name]  
+**Author:** [Wasay Khan]  
 **Date:** April 2026  
 **Internship Project — Mini Assignment**
 
